@@ -21,7 +21,7 @@ linux_users2=["user1","user2","user3"]
 
 #---------------
 
-cycle = int(input("Are you making 1.) cycle 1 keys or 2.) cycle 2 keys? : "))
+cycle = int(input("Are you making 1. cycle 1 keys or 2. cycle 2 keys? : "))
 
 i = 0
 j = 0
